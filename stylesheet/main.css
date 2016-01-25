@@ -46,7 +46,7 @@ body{
 .header{
 	
 	text-align:center;
-	background:url("Image/header.JPG");
+	background:url("Image/header.jpg");
 	background-repeat:no-repeat;
 	background-size: cover;
  	background-attachment: fixed;
