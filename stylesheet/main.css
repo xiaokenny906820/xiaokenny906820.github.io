@@ -675,6 +675,19 @@ hr{
 }
 
 
+
+.studio{
+	border-radius:10px;
+	display:inline-block;
+	width:20%;
+	max-height: 55px;
+	max-width: 70px;
+	vertical-align: bottom;
+	margin-right: 2%;
+}
+
+
+
 .projImg{
 	display:inline-block;
 	border:solid 5px;
@@ -737,6 +750,21 @@ img{
 	padding-right: 47%;
 	padding-bottom: 2%;
 }
+
+
+.gitImg2{
+	float:right;
+	display:inline;
+	width:20%;
+	max-height: 4%;
+	max-width: 4%;
+	vertical-align: bottom;
+	padding-right: 49%;
+	padding-bottom: 2%;
+}
+
+
+
 
 .thesisImg{
 	float:right;
